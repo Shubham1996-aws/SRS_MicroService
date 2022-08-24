@@ -3,11 +3,11 @@ variable "aws_region" {
 }
 
 variable "access_key" {
-  default = "AKIAX5WIIHNEEGZA7JH4"
+  default = "AKIAX5WIIHNEKUAE72GX"
 }
 
 variable "secret_key" {
-  default = "gUyjcGu9wHv15TITDPJR9Znkw7o12aZKiWk9YdD4"
+  default = "sGXKltMd6/55Ilmq1ypKnqSnZr+9OCJrHyy/0h7b"
 }
 
 variable "cluster-name" {
